@@ -12,7 +12,7 @@ Pour activer ce venv il suffit de taper une des commandes :
 
 Une fois dans le venv via bash, cmd ou autre :
 ```bash
-pip install -R requirements.txt
+pip install -r requirements.txt
 ```
 *N'hésitez pas à demander de l'aide si vous n'êtes pas habitués aux virtual env*
 
