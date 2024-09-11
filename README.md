@@ -1,4 +1,4 @@
-# TP sur les Boids préparé par YON Alexis
+# TP sur les Boids préparé par @Mistourr, pratiqué et étendu par @MaxBodin
 
 # Installation
 Pour installer les dépendances il est conseillé d'utiliser un venv :
