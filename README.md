@@ -26,6 +26,8 @@ Ce TP a pour but de vous familiariser avec le principe de l'algorithme boids. Po
 
 Pour vous faciliter la tâche, le code permettant de faire le rendu en temps réel ainsi que l'architecture générale vous sont fournis. Vous trouverez dans le code plusieurs commentaires TODO indiquant du code à compléter. Un premier est au niveau de la boucle de rendu principale (main.py) et servira notamment à manipuler les poids des comportements. Le reste se trouve dans le corps de la classe Boid (boid.py) et correspond aux comportements à implémenter.
 
+Pour lancer le projet il suffit de lancer main.py.
+
 # Implémentation
 Avant de se lancer dans le développement des différents comportements, il serait bon de savoir comment fonctionne le projet.
 

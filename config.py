@@ -6,7 +6,7 @@ fps = 60
 poids_cohesion = 0.1
 poids_alignement = 0.1
 poids_separation = 0.3
-poids_circling = 0.1
+poids_circling = 0
 
 boid_size: float = 7
 boid_color: Vector3 = (0, 0, 0)
