@@ -12,7 +12,7 @@ class Boid(Drawable):
 
     #config vars
     _size: float = config.boid_size
-    _color: Vector3 = config.good_boid_color
+    _color: Vector3 = config.blue_boid_color
     _n_neighbours = config.boid_n_neighbours
     _sep_distance = config.boid_sep_distance
     _speed = config.boid_speed
@@ -21,7 +21,7 @@ class Boid(Drawable):
         super().__init__()
         self._pos: Vector2 = Vector2(x, y)
         self._vel: Vector2 = Vector2(1,0)
-        self._color = config.good_boid_color if random.random() < 0.5 else config.bad_boid_color
+        self._color = config.blue_boid_color if random.random() < 0.5 else config.red_boid_color
         self._speed += random.randint(40, 100)
 
     def getPos(self) -> Vector2:
