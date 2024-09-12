@@ -1,4 +1,6 @@
-# TP sur les Boids préparé par @Mistourr, pratiqué et étendu par @MaxBodin
+### TP sur les Boids préparé par @Mistourr, pratiqué et étendu par @MaxBodin
+
+**Le mot boid est une contraction de bird-oid (qui a la forme d'un oiseau). Les boids sont souvent utilisés pour créer des images de synthèse car ils fournissent des représentations réalistes de nuées d'oiseaux, bancs de poissons, essaims d'insectes ou autres troupeaux d'animaux.**
 
 # Installation
 Pour installer les dépendances il est conseillé d'utiliser un venv :
